@@ -3005,7 +3005,7 @@ body {
   color: #97adcf; }
 
 .site-menu .menu-icon {
-  color: #7591bf; }
+  color: #fff; }
 
 .site-menu li.open,
 .site-menu li.active,
@@ -3038,7 +3038,7 @@ body.menubar-light .site-menu li a {
   color: #555; }
 
 body.menubar-light .site-menu .menu-icon {
-  color: #6f6f6f; }
+  color: #fff; }
 
 body.menubar-light .site-menu li.open,
 body.menubar-light .site-menu li.active,
